@@ -2,7 +2,7 @@
 
 ## Summary: 
 Life expectancy is simply defined as the number of years an individual can
-expect to live. Using the World Health Organization (WHO) database, I performed a
+expect to live. Using the [Life Expectancy dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/metadata) obtained from the World Health Organization (WHO) database, I performed a
 linear regression, a multiple linear regression followed by the logistic regression to
 formulate a hypothesis. After cleaning the dataset, the linear regression revealed that
 all independent variables impact the dependent variable or life expectancy (Adj. Rsquared
